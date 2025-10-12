@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DrewKnock
-- I'm currently pursuing a degree in Software Engineering at Iowa state
+- I'm currently pursuing a degree in Software Engineering at Iowa State University
 - This is where I will post any and all projects I work on
